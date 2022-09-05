@@ -46,9 +46,6 @@ npm start
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
-## Contribution
-
-Made by Wenwen Tian
 
 ## Questions?
 
